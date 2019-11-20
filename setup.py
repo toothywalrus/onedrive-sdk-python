@@ -1,7 +1,7 @@
 from __future__ import with_statement
 from setuptools import setup
-from codecs import open
 from os import path
+from io import open
 import sys
 
 here = path.abspath(path.dirname(__file__))
